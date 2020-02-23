@@ -1,0 +1,1 @@
+openssl aes-128-ecb -d -in encrypt.txt -out plain.txt -K 36393633363837353665373136393735 -nopad
